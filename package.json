@@ -14,7 +14,6 @@
     "url": "https://github.com/wix/react-native-controllers/issues"
   },
   "homepage": "https://github.com/wix/react-native-controllers",
-  "main": "index.js",
   "author": "Tal Kol <talkol@gmail.com>",
   "license": "MIT",
   "peerDependencies": {
